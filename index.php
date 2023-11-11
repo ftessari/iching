@@ -23,13 +23,14 @@
 		</div>	  
     </div>	
   </nav>	
-  <div class="container mt-4">    
-    <form method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>">
-		Qual a sua questão?<br>
-        <input type="text" name="inputString" placeholder="">
-        <input type="submit" name="submitButton" value="Consultar">
-    </form>
-
+  <div class="container mt-12">  
+	<form method="post" action="<?php echo $_SERVER["PHP_SELF"]; ?>">
+		<div class="form-group">
+			Qual a sua questão?<br>
+			<input class="form-control" type="text" name="inputString" placeholder="">
+			<input class="form-text text-muted" type="submit" name="submitButton" value="Consultar">
+		</div>
+	</form>				
 <?php
 
 // Main
@@ -52,7 +53,7 @@ function fBusca($str) {
 	$logic_linha = array();
 	$SelectHex = "";
 
-	$SelectHex = $_POST['inputString'] . "\r\n\r\n";
+	$SelectHex = "<b>" . $_POST['inputString'] . "</b><br><br>";
 	
 	// Consulta
 	for ($conta = 1; $conta <= 6; $conta++) {
