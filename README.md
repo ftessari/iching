@@ -56,10 +56,10 @@ Você deverá jogar juntamente as três moedas I-Ching por seis vezes seguidas. 
 O lado ‘yin’ da moeda I Ching é representado pela “coroa” (valor monetário) e tem valor 2. O lado ‘yang’ da moeda I Ching é representado pela “cara” (brasão ou figura) e recebe o valor 3. O valor da soma das moedas I Ching jogadas indicará a linha a ser formada. Todas as linhas com soma par são representadas de forma aberta (— —) e as com soma ímpar são representadas de forma fechada (——-).
 
 **Os quatro resultados possíveis**
-___
-<spam>Três caras = Yang + Yang + Yang%20%20%20%20 = 3 + 3 + 3 = 9 = (—o—)</spam><br>
-<spam>Duas caras e uma coroa = Yang + Yang + Yin%20 = 3 + 3 + 2 = 8 = (— —)</spam><br>
-<spam>Duas coroas e uma cara = Yin + Yin + Yang%20%20 = 2 + 2 + 3 = 7 = (——-)</spam><br>
-<spam>Três coroas = Yin + Yin + Yin%20%20%20%20%20 = 2 + 2 + 2 = 6 = (—x—)</spam>
-___
+<code>___
+Três caras = Yang + Yang + Yang 		= 3 + 3 + 3 = 9 = (—o—)
+Duas caras e uma coroa = Yang + Yang + Yin 	= 3 + 3 + 2 = 8 = (— —)
+Duas coroas e uma cara = Yin + Yin + Yang 	= 2 + 2 + 3 = 7 = (——-)
+Três coroas = Yin + Yin + Yin 			= 2 + 2 + 2 = 6 = (—x—)
+___</code>
 O I-Ching mistura aleatoriedade, lógica e interpretação (criatividade).
