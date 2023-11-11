@@ -57,9 +57,9 @@ O lado ‘yin’ da moeda I Ching é representado pela “coroa” (valor monet�
 
 **Os quatro resultados possíveis**
 ___
-<spam>Três caras = Yang + Yang + Yang             = 3 + 3 + 3 = 9 = (—o—)</spam>
-<spam>Duas caras e uma coroa = Yang + Yang + Yin  = 3 + 3 + 2 = 8 = (— —)</spam>
-<spam>Duas coroas e uma cara = Yin + Yin + Yang   = 2 + 2 + 3 = 7 = (——-)</spam>
+<spam>Três caras = Yang + Yang + Yang             = 3 + 3 + 3 = 9 = (—o—)</spam><br>
+<spam>Duas caras e uma coroa = Yang + Yang + Yin  = 3 + 3 + 2 = 8 = (— —)</spam><br>
+<spam>Duas coroas e uma cara = Yin + Yin + Yang   = 2 + 2 + 3 = 7 = (——-)</spam><br>
 <spam>Três coroas = Yin + Yin + Yin               = 2 + 2 + 2 = 6 = (—x—)</spam>
 ___
 O I-Ching mistura aleatoriedade, lógica e interpretação (criatividade).
